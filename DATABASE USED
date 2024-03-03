@@ -1,0 +1,30 @@
++--------+---------------------------------------------------+-----------------+-----------------+--------------------+-------+
+| bookid | name                                              | author          | classification  | branch             | shelf |
++--------+---------------------------------------------------+-----------------+-----------------+--------------------+-------+
+|      1 | The Hitchhiker's Guide to the Galaxy              | Douglas Adams   | Science Fiction | AIML Branch        |     1 |
+|      2 | Pride and Prejudice                               | Jane Austen     | Romance         | Main Branch        |     3 |
+|      3 | To Kill a Mockingbird                             | Harper Lee      | Fiction         | Children's Section |     2 |
+|      4 | A Brief History of Time                           | Stephen Hawking | Science         | Main Branch        |     5 |
+|      5 | The Lord of the Rings: The Fellowship of the Ring | J.R.R. Tolkien  | Fantasy         | Main Branch        |     4 |
+|      6 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|      7 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|      8 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|      9 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     10 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     11 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     12 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     13 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     14 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     15 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     16 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     17 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     18 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     19 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     20 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     21 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     22 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     23 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     24 | pranshu                                           | pranshu         | science         | cs                 |    22 |
+|     25 | aman                                              | aman            | scifi           | mech               |     4 |
+|     26 | aditya                                            | raj             | horror          | horror             |     5 |
++--------+---------------------------------------------------+-----------------+-----------------+--------------------+-------+
